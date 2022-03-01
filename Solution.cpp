@@ -1,6 +1,6 @@
 
-// The struct is in-built in the solution file on leetcode.com. 
-// When running the code on the website, do not include the struct.
+// Struct ListNode is in-built in the solution file on leetcode.com. 
+// When running the code on the website, do not include this struct.
 struct ListNode {
     int val;
     ListNode* next;
