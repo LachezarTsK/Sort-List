@@ -46,6 +46,8 @@ public class Solution {
     }
 }
 
+// Class ListNode is in-built in the solution file on leetcode.com. 
+// When running the code on the website, do not include the class.
 class ListNode {
 
     int val;
