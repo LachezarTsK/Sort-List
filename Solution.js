@@ -1,4 +1,6 @@
 
+// Function ListNode is in-built in the solution file on leetcode.com. 
+// When running the code on the website, do not include this function.
 /**
  * @param {number} val
  * @param {ListNode}next
